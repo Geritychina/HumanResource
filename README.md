@@ -1,3 +1,3 @@
 # SolutionTest 🧼 💁‍♀️
-📍Practise Soap & MVC 📍 <br>
+📌Practise Soap & MVC 📌<br>
 📌DTO for easy reading 📌
