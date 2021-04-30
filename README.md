@@ -1,3 +1,3 @@
 # Human Resource 🧼 💁‍♀️
-📌Practise Soap & MVC 📌<br>
-📌DTO for easy transfer to nessesary data 📌
+📌 University Course Work 📌<br>
+📌SOAP & MVC 📌
